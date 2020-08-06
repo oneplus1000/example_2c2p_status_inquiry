@@ -1,0 +1,1 @@
+<PaymentProcessRequest><merchantID>JT01</merchantID><version>3.4</version><invoiceNo>Invoice1401872337</invoiceNo><processType>I</processType><hashValue>A4AA753A3C08C05E001BA42C1B9D66DCAEC0DD20</hashValue></PaymentProcessRequest>
